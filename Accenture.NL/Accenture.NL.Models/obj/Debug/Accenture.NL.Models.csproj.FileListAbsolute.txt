@@ -1,0 +1,6 @@
+C:\Personal\Accenture\Accenture.PruebaNL\Accenture.ProyectoNL.Entidades\bin\Debug\Accenture.NL.Models.dll
+C:\Personal\Accenture\Accenture.PruebaNL\Accenture.ProyectoNL.Entidades\bin\Debug\Accenture.NL.Models.pdb
+C:\Personal\Accenture\Accenture.PruebaNL\Accenture.ProyectoNL.Entidades\obj\Debug\Accenture.NL.Models.csprojAssemblyReference.cache
+C:\Personal\Accenture\Accenture.PruebaNL\Accenture.ProyectoNL.Entidades\obj\Debug\Accenture.NL.Models.csproj.CoreCompileInputs.cache
+C:\Personal\Accenture\Accenture.PruebaNL\Accenture.ProyectoNL.Entidades\obj\Debug\Accenture.NL.Models.dll
+C:\Personal\Accenture\Accenture.PruebaNL\Accenture.ProyectoNL.Entidades\obj\Debug\Accenture.NL.Models.pdb
